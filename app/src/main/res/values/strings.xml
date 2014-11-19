@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RockPaperSissor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_draw_gesture">DrawGestureActivity</string>
+    <string name="draw_gesture_area">Draw your choice here</string>
+    <string name="unreognized_gesture">Sorry couldn\'t recognize gesture</string>
+    <string name="title_activity_animation">AnimationActivity</string>
+    <string name="title_activity_score_details">ScoreDetails</string>
+    <string name="title_activity_intructions">Intructions</string>
+    <string name="intruction_rock">To choose Rock draw R</string>
+<string name="intruction_paper">To choose Paper draw P</string>
+<string name="intruction_scissor">To choose Scissors draw S</string>
+
+</resources>
